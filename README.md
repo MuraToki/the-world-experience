@@ -16,7 +16,7 @@ This is a web application to share experiences that happened abroad. Actually, I
 - いいね機能
 - 投稿の削除機能
 - 検索機能
-- 画像投稿機能（現状映らない）
+- 画像投稿機能
 - バリデーション
 
 ## 世界体験記内で使用している技術一覧
